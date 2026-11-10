@@ -1,0 +1,3866 @@
+{
+  "sites": [
+    {
+      "id": "1",
+      "site": "HaMifletzet / The Golem",
+      "area": "Rabinovich Park - Kiryat HaYovel",
+      "geometry_and_materials": "Freeform painted shell; concave slides; openings; overhangs",
+      "main_gate": "Authorized empty playground; children and neighboring homes",
+      "scout_first": "pending",
+      "source": "https://en.wikipedia.org/wiki/Kiryat_HaYovel",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7616867,
+        "lon": 35.1722547,
+        "width": 150,
+        "evidence": "https://www.openstreetmap.org/node/420336290",
+        "position": "Mapped sculpture",
+        "note": "Object pin from OpenStreetMap; not surveyed.",
+        "sensor": "Smooth painted concrete challenges RGB/LWIR matching. Add ground views for slides, openings and overhangs."
+      },
+      "photo": {
+        "image": "assets/ground-01-8051267aec.jpg",
+        "description": "Ground-level close view of the HaMifletzet (The Golem) sculpture-playground, Rabinovich Park, Kiryat HaYovel",
+        "author": "Utilisateur:Djampa - User:Djampa",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jerusalem_HaMifletzet_closeup.jpg",
+        "date": "2012-12-14 11:13",
+        "kind": "ground",
+        "changes": "Resized only; no crop",
+        "source_title": "Jerusalem HaMifletzet closeup.jpg",
+        "sha256": "8051267aec5b62c14e6d2364ade97eb65819f8d8b07b08233cfe263af1b7f9cf"
+      },
+      "access_screening": {
+        "name": "HaMifletzet / The Golem (Rabinovich Park, Kiryat HaYovel)",
+        "vehicle_destination": "Rabinovich Park / HaMifletzet playground, Kiryat HaYovel, Jerusalem (street-side access; OSM-nearest paved roads to the sculpture are Tahon and Henrietta Szold, asphalt secondary)",
+        "vehicle_lat": null,
+        "vehicle_lon": null,
+        "vehicle_evidence": null,
+        "walking_minutes_estimate": [
+          2,
+          9
+        ],
+        "access_notes": "Source fact: public neighbourhood playground sculpture (Wikipedia, Kiryat HaYovel). Source fact: nearest OSM-mapped lot tagged access=yes, fee conditional Su-Fr 08:00-19:00 is ~390 m away (way/221176748) - association with the playground is unverified, so no vehicle point is given. Footways and steps are mapped within ~25 m of the sculpture. Planning estimate: 2-9 min from kerb or that lot.",
+        "acquisition_notes": "Small compact scene, easy walk-in. Children/residential homes close by, so capture before school hours; painted shell is smooth and glossy so RGB/LWIR matching is weak and ground views for slides and openings are required. Surrounding slopes and buildings limit open sky/flight envelope (planning note).",
+        "logistics": "moderate",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kiryat_HaYovel",
+          "https://www.openstreetmap.org/way/221176748",
+          "https://www.openstreetmap.org/node/420336290"
+        ],
+        "uncertainties": [
+          "No authoritative parking or entrance source found; no vehicle point.",
+          "Mapped lot 390 m away may be a different facility (conditional fee tag).",
+          "Municipal/neighbourhood rules and resident privacy not checked."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3915269.273373406,
+            3732025.290372744,
+            3915445.693137241,
+            3732112.300120214
+          ],
+          "size": [
+            490,
+            242
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-01-focus-2fa9da5c91.jpg",
+        "extent": [
+          3915269.273373406,
+          3732025.230366022,
+          3915445.693137241,
+          3732112.3601269363
+        ],
+        "width": 490,
+        "height": 242,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3915269.273373406%2C3732025.290372744%2C3915445.693137241%2C3732112.300120214&bboxSR=3857&imageSR=3857&size=490%2C242&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3914534.1910240934,
+            3731703.750577915,
+            3916180.7754865536,
+            3732433.839915043
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-01-context-bdfce4ef1e.jpg",
+        "extent": [
+          3914534.191024094,
+          3731703.7505779136,
+          3916180.775486554,
+          3732433.8399150423
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3914534.1910240934%2C3731703.750577915%2C3916180.7754865536%2C3732433.839915043&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "site": "Jerusalem Skatepark",
+      "area": "Liberty Bell Park edge",
+      "geometry_and_materials": "Concrete bowls; continuous curvature; sharp coping; smooth low-texture surfaces",
+      "main_gate": "Authorized closure; skaters; roads",
+      "scout_first": "pending",
+      "source": "https://www.itraveljerusalem.com/attraction/liberty-bell-park",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7688326,
+        "lon": 35.2226328,
+        "width": 200,
+        "evidence": "https://www.openstreetmap.org/way/361710275",
+        "position": "Mapped skatepark",
+        "note": "Mapped skatepark, not the general Liberty Bell Park tourism pin.",
+        "sensor": "LiDAR tests smooth bowl curvature against RGB/LWIR reconstructions. Low visual texture is an intentional challenge."
+      },
+      "photo": {
+        "image": "assets/ground-02-8a345be3cc.jpg",
+        "description": "Oblique drone view of the Gan Paamon HaDeror (Liberty Bell Park) skatepark bowls and street section",
+        "author": "Hagai Agmon-Snir \u062d\u0686\u0627\u064a \u0627\u0686\u0645\u0648\u0646-\u0633\u0646\u064a\u0631 \u05d7\u05d2\u05d9 \u05d0\u05d2\u05de\u05d5\u05df-\u05e9\u05e0\u05d9\u05e8",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:GanPaamonHaDerorSkateparkDec122022_01.jpg",
+        "date": "2022-12-12 11:54:22",
+        "kind": "oblique",
+        "changes": "Resized only; no crop",
+        "source_title": "GanPaamonHaDerorSkateparkDec122022 01.jpg",
+        "sha256": "8a345be3cc950a9283d52306314808f91c9dddae1c4038c1c54456c409699c52"
+      },
+      "access_screening": {
+        "name": "Jerusalem Skatepark (Liberty Bell Park edge)",
+        "vehicle_destination": "Liberty Bell parking lot (Hanion Gan HaPaamon), Liberty Bell Park, Keren HaYesod/Emek Refaim side, Jerusalem",
+        "vehicle_lat": 31.768879,
+        "vehicle_lon": 35.223546,
+        "vehicle_evidence": "https://www.openstreetmap.org/way/136009903",
+        "walking_minutes_estimate": [
+          1,
+          4
+        ],
+        "access_notes": "Source fact (OSM): named surface lot 'Liberty Bell parking', access=yes, fee=yes, asphalt, ~85 m from the mapped skatepark; an asphalt service road is ~6 m from the lot. A free access=yes lot (way/756952948) is ~100 m away. Source fact (iTravelJerusalem): Liberty Bell Park is a large public park next to the skatepark; address Keren HaYesod St. Park hours/opening of the skatepark not verified.",
+        "acquisition_notes": "Very short walk, open concrete geometry, good for a fast first test. Skaters, families and the Train Theater/Emek Refaim roads nearby mean people-in-frame and a controlled closure are needed. Smooth low-texture bowl surfaces are an intentional matching challenge. Little canopy over the bowls.",
+        "logistics": "low",
+        "sources": [
+          "https://www.openstreetmap.org/way/136009903",
+          "https://www.openstreetmap.org/way/756952948",
+          "https://www.itraveljerusalem.com/attraction/liberty-bell-park"
+        ],
+        "uncertainties": [
+          "OSM fee/opening status of the lot may be stale; municipal operation not confirmed.",
+          "Skatepark opening hours and closure authority not found."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3920847.925435572,
+            3732946.4072725493,
+            3921083.169953339,
+            3733062.429228591
+          ],
+          "size": [
+            653,
+            322
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-02-focus-54463f297d.jpg",
+        "extent": [
+          3920847.9043135624,
+          3732946.4072725493,
+          3921083.1910753483,
+          3733062.429228591
+        ],
+        "width": 653,
+        "height": 322,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3920847.925435572%2C3732946.4072725493%2C3921083.169953339%2C3733062.429228591&bboxSR=3857&imageSR=3857&size=653%2C322&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3920142.1918822727,
+            3732639.3453904516,
+            3921788.903506638,
+            3733369.4911106885
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-02-context-634e1affcd.jpg",
+        "extent": [
+          3920142.191882273,
+          3732639.345390451,
+          3921788.9035066385,
+          3733369.4911106885
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3920142.1918822727%2C3732639.3453904516%2C3921788.903506638%2C3733369.4911106885&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "site": "Koret / San Simon Park",
+      "area": "Katamon",
+      "geometry_and_materials": "Precipitation Zone 600 sculpture; paths; mature trees; built-natural boundaries",
+      "main_gate": "Municipal coordination; exclude monastery and memorial areas",
+      "scout_first": "pending",
+      "source": "https://jerusalemfoundation.org/old-project/koret-park/",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7604068,
+        "lon": 35.2062116,
+        "width": 420,
+        "evidence": "https://www.openstreetmap.org/way/44634899",
+        "position": "Mapped venue / scene anchor",
+        "note": "Reviewed OpenStreetMap object: San simon park. Not a surveyed position.",
+        "sensor": "Sculpture, tree trunks and paths test built-natural boundaries. Keep moving foliage separate from stable reference surfaces."
+      },
+      "photo": null,
+      "access_screening": {
+        "name": "Koret / San Simon Park (Katamon)",
+        "vehicle_destination": "Koret Park, San Simon, opposite 57 Chizkiyahu HaMelech St, Katamon, Jerusalem (address per Jerusalem Foundation); residential street parking assumed, not verified",
+        "vehicle_lat": null,
+        "vehicle_lon": null,
+        "vehicle_evidence": null,
+        "walking_minutes_estimate": [
+          2,
+          6
+        ],
+        "access_notes": "Source fact (Jerusalem Foundation): one-acre public park beside the 1859 San Simon Monastery; central lawn, footpath, two play areas, basketball court, 'Precipitation Zone 600' sculpture (1985). Only an untagged OSM lot ~130 m away; one mapped lot is access=private. Steps and footways wrap the park.",
+        "acquisition_notes": "The park itself is small (~1 acre) so the OSM scene width of 420 m is far larger than the park; restrict to the park and exclude the monastery and memorial. Mature trees and surrounding buildings give canopy/occlusion and a constrained flight envelope. Residential neighbours and play areas - capture early.",
+        "logistics": "moderate",
+        "sources": [
+          "https://jerusalemfoundation.org/old-project/koret-park/",
+          "https://www.openstreetmap.org/way/44634899"
+        ],
+        "uncertainties": [
+          "No credible public lot coordinate; on-street parking unverified.",
+          "Monastery/memorial exclusion boundaries and municipal rules not checked."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3918890.563818545,
+            3731779.411758692,
+            3919384.5323259374,
+            3732023.0356824063
+          ],
+          "size": [
+            1372,
+            677
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-04-focus-225587cba7.jpg",
+        "extent": [
+          3918890.5638185455,
+          3731779.3517528004,
+          3919384.532325938,
+          3732023.0956882993
+        ],
+        "width": 1372,
+        "height": 677,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3918890.563818545%2C3731779.411758692%2C3919384.5323259374%2C3732023.0356824063&bboxSR=3857&imageSR=3857&size=1372%2C677&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3917902.6268037604,
+            3731353.664290185,
+            3920372.469340722,
+            3732448.783150913
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-04-context-10f7394d76.jpg",
+        "extent": [
+          3917902.62680376,
+          3731353.664290185,
+          3920372.4693407216,
+          3732448.783150913
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3917902.6268037604%2C3731353.664290185%2C3920372.469340722%2C3732448.783150913&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "site": "Botanical Gardens - outdoor terraces",
+      "area": "Givat Ram / Nayot",
+      "geometry_and_materials": "A bounded outdoor garden scene: paths, planting terraces, retaining edges and exposed ground. Greenhouse buildings and interiors are excluded.",
+      "main_gate": "Garden agreement; water and glass unsuitable as sole geometric reference",
+      "scout_first": "pending",
+      "source": "https://www.itraveljerusalem.com/attraction/jerusalem-botanical-gardens",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7700532,
+        "lon": 35.1999687,
+        "width": 2100,
+        "evidence": "https://www.openstreetmap.org/way/44139577",
+        "position": "Garden-area center / select a subscene",
+        "note": "Reviewed OpenStreetMap object: Botanical Garden. Not a surveyed position.",
+        "sensor": "Select an open outdoor terrain/terrace subscene with the operator. Canopy, moving vegetation and water need separate masks; greenhouse buildings are excluded."
+      },
+      "photo": null,
+      "access_screening": {
+        "name": "Jerusalem Botanical Gardens - outdoor bounded garden scene (Givat Ram)",
+        "vehicle_destination": "Hebrew University Botanical Garden, 1 Zalman Shneor St, Givat Ram, Jerusalem (iTravelJerusalem lists free parking; lot position not substantiated)",
+        "vehicle_lat": null,
+        "vehicle_lon": null,
+        "vehicle_evidence": null,
+        "walking_minutes_estimate": [
+          5,
+          20
+        ],
+        "access_notes": "Source fact (iTravelJerusalem, undated listing): ticketed garden (adult 40 NIS), open until 19:00 on the page, ~120-150 dunam, free parking. Operator is the university garden, so operator agreement is required. OSM shows many untagged lots around the Givat Ram campus; none can be tied to the garden entrance.",
+        "acquisition_notes": "Poor fit for 'easy/fast': large site needing a bounded sub-scene, dense planting canopy, paths and greenhouses; opening hours limit pre-dawn LWIR; ticketed/visitor-controlled. Terrace/rock-garden outdoor sub-scenes could be viable but must be selected on the ground. Greenhouse glass and water are excluded.",
+        "logistics": "high",
+        "sources": [
+          "https://www.itraveljerusalem.com/attraction/jerusalem-botanical-gardens",
+          "https://www.openstreetmap.org/way/44139577"
+        ],
+        "uncertainties": [
+          "Opening hours, price and parking details are from a third-party listing and may be stale.",
+          "No bounded sub-scene or garden-internal approach established.",
+          "Walking range depends on the unselected sub-scene."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3917207.5416109883,
+            3732555.1170909675,
+            3919677.6416353467,
+            3733773.36370162
+          ],
+          "size": [
+            1470,
+            725
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-05-focus-760b9d07ad.jpg",
+        "extent": [
+          3917207.541610988,
+          3732555.117090967,
+          3919677.641635346,
+          3733773.36370162
+        ],
+        "width": 1470,
+        "height": 725,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3917207.5416109883%2C3732555.1170909675%2C3919677.6416353467%2C3733773.36370162&bboxSR=3857&imageSR=3857&size=1470%2C725&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3912267.3415622716,
+            3730426.157822123,
+            3924617.8416840634,
+            3735902.322970465
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-05-context-0198d79b34.jpg",
+        "extent": [
+          3912267.3415622725,
+          3730426.1578221237,
+          3924617.8416840653,
+          3735902.3229704658
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3912267.3415622716%2C3730426.157822123%2C3924617.8416840634%2C3735902.322970465&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "site": "HaMesila Park - bounded Baka segment",
+      "area": "Baka",
+      "geometry_and_materials": "Disused rails and sleepers; long linear geometry; paving and vegetation",
+      "main_gate": "Pedestrian control; choose exact segment away from active transport",
+      "scout_first": "pending",
+      "source": "https://jerusalemfoundation.org/story-jlm/stories-from-jlm-june-2019/",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.761155,
+        "lon": 35.2181758,
+        "width": 450,
+        "evidence": "https://www.openstreetmap.org/way/163740328",
+        "position": "Proposed corridor segment / approximate",
+        "note": "Reviewed OpenStreetMap object: Park HaMesilah. Not a surveyed position.",
+        "sensor": "Repeated rails and sleepers can confuse matching. Capture oblique views and assess thin-structure completeness against LiDAR."
+      },
+      "photo": null,
+      "access_screening": {
+        "name": "HaMesila Park - bounded Baka segment",
+        "vehicle_destination": "Paid public surface lot (OSM way/1282004653) beside HaMesila Park near HaRakevet / Azaria streets, Baka; exact operator/name not established",
+        "vehicle_lat": 31.76173,
+        "vehicle_lon": 35.21853,
+        "vehicle_evidence": "https://www.openstreetmap.org/way/1282004653",
+        "walking_minutes_estimate": [
+          2,
+          6
+        ],
+        "access_notes": "Source fact (OSM): lot tagged access=yes, fee=yes, ~70 m from the proposed segment pin, adjoining a paving-stone service lane and asphalt tertiary streets (HaRakevet, Azaria). A free access=yes lot (way/44279038) ~210 m away. Source fact (Jerusalem Foundation 2019 story): HaMesila is a pedestrian/cycle park on the old railway line. Scene pin is a proposed approximate segment, not a surveyed point.",
+        "acquisition_notes": "Linear park with walkers/cyclists, so capture at low traffic and choose a segment away from active transport and the railway-station area. Repeated rails/sleepers confuse matching. Moderate tree cover; narrow park corridor with adjacent buildings restricts the flight envelope.",
+        "logistics": "moderate",
+        "sources": [
+          "https://www.openstreetmap.org/way/1282004653",
+          "https://www.openstreetmap.org/way/44279038",
+          "https://jerusalemfoundation.org/story-jlm/stories-from-jlm-june-2019/"
+        ],
+        "uncertainties": [
+          "Lot identity and tariff come from OSM only; may be tied to the First Station complex.",
+          "Segment not yet chosen; walking time is nominal.",
+          "Pedestrian control and municipal permission not checked."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3920204.7685985686,
+            3731868.668014298,
+            3920734.024849411,
+            3732129.6957570603
+          ],
+          "size": [
+            1470,
+            725
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-06-focus-c5e5d833b8.jpg",
+        "extent": [
+          3920204.76859857,
+          3731868.6680142977,
+          3920734.0248494125,
+          3732129.6957570603
+        ],
+        "width": 1470,
+        "height": 725,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3920204.7685985686%2C3731868.668014298%2C3920734.024849411%2C3732129.6957570603&bboxSR=3857&imageSR=3857&size=1470%2C725&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3919146.256096883,
+            3731412.5063246037,
+            3921792.5373510965,
+            3732585.857446755
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-06-context-3649dacbb6.jpg",
+        "extent": [
+          3919146.256096883,
+          3731412.5063246037,
+          3921792.5373510965,
+          3732585.857446755
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3919146.256096883%2C3731412.5063246037%2C3921792.5373510965%2C3732585.857446755&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "site": "Olive Columns / Park of Olives",
+      "area": "Ramat Rachel",
+      "geometry_and_materials": "Tall narrow columns carrying olive trees; vertical-horizontal scale contrast",
+      "main_gate": "Security-adjacency screening; kibbutz agreement; tree motion",
+      "scout_first": "pending",
+      "source": "https://www.itraveljerusalem.com/attraction/park-of-olives",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7374687,
+        "lon": 35.2231255,
+        "width": 240,
+        "evidence": "https://www.openstreetmap.org/node/2288369397",
+        "position": "Mapped target structure",
+        "note": "Target object identified in detailed OpenStreetMap geometry, not a generic park entrance.",
+        "sensor": "Tall columns, narrow supports and tree crowns test geometric completeness. Wind and canopy motion limit cross-flight comparisons."
+      },
+      "photo": null,
+      "access_screening": {
+        "name": "Olive Columns / Park of Olives (Ramat Rachel)",
+        "vehicle_destination": "Park of Olives (Park HaZeitim), Kibbutz Ramat Rachel, Jerusalem; kibbutz gate approach not substantiated",
+        "vehicle_lat": null,
+        "vehicle_lon": null,
+        "vehicle_evidence": null,
+        "walking_minutes_estimate": [
+          4,
+          12
+        ],
+        "access_notes": "Source fact (iTravelJerusalem): park inside Kibbutz Ramat Rachel, free entry, 'open at all hours, all days'; three 11 m columns each topped with an olive tree. Nearest untagged OSM lots are ~250-420 m from the columns; the nearest asphalt road (Tzur Baher road per OSM) is ~130 m away. Mapped tracks/footways lead to the columns.",
+        "acquisition_notes": "Tall thin columns and tree tops give a good geometry test, but tree motion/wind and canopy limit cross-flight comparison. The kibbutz and southern Jerusalem border/security adjacency need screening; time-of-day lighting for LWIR should be planned.",
+        "logistics": "moderate",
+        "sources": [
+          "https://www.itraveljerusalem.com/attraction/park-of-olives",
+          "https://www.openstreetmap.org/node/2288369397"
+        ],
+        "uncertainties": [
+          "Public vehicle entrance/parking not substantiated; 'open at all hours' is third-party and undated.",
+          "Kibbutz private control and security adjacency unresolved."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3920879.2959072124,
+            3728828.845079653,
+            3921161.493707927,
+            3728968.0242670802
+          ],
+          "size": [
+            783,
+            386
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-07-focus-b0578d5785.jpg",
+        "extent": [
+          3920879.2324970053,
+          3728828.8450796525,
+          3921161.5571181336,
+          3728968.02426708
+        ],
+        "width": 783,
+        "height": 386,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3920879.2959072124%2C3728828.845079653%2C3921161.493707927%2C3728968.0242670802&bboxSR=3857&imageSR=3857&size=783%2C386&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3920197.317888819,
+            3728533.4854735434,
+            3921843.47172632,
+            3729263.38387319
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-07-context-20316275e8.jpg",
+        "extent": [
+          3920197.317888819,
+          3728533.485473543,
+          3921843.47172632,
+          3729263.38387319
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3920197.317888819%2C3728533.4854735434%2C3921843.47172632%2C3729263.38387319&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "site": "Gan Australia concrete slide",
+      "area": "Yafe Nof / Jerusalem Forest edge",
+      "geometry_and_materials": "Concrete slide; two-level garden; agricultural terraces",
+      "main_gate": "Municipal/KKL coordination; exclude commemorative corner",
+      "scout_first": "pending",
+      "source": "https://www.kkl.org.il/travel/trips/jerusalem_forest/",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.776931,
+        "lon": 35.1807563,
+        "width": 180,
+        "evidence": "https://www.openstreetmap.org/way/820348323",
+        "position": "Mapped venue / scene anchor",
+        "note": "Reviewed OpenStreetMap object: \u05d2\u05df \u05d0\u05d5\u05e1\u05d8\u05e8\u05dc\u05d9\u05d4. Not a surveyed position.",
+        "sensor": "Concrete slide curvature and terrace steps offer compact geometric tests. Include side views rather than relying on nadir imagery."
+      },
+      "photo": null,
+      "access_screening": {
+        "name": "Gan Australia concrete slide (Yefe Nof / Jerusalem Forest edge)",
+        "vehicle_destination": "Gan Australia, off David Mordechai Meir St (asphalt street ~20 m from the mapped park object), Yefe Nof, Jerusalem",
+        "vehicle_lat": null,
+        "vehicle_lon": null,
+        "vehicle_evidence": null,
+        "walking_minutes_estimate": [
+          3,
+          8
+        ],
+        "access_notes": "Source fact (OSM): park object with an asphalt unclassified street ~20 m away and a mapped access=yes surface lot ~280 m east (way/245188822, unnamed, no fee tag) - not tied to the park. KKL Jerusalem Forest page was bot-blocked and could not be read. Commemorative corner to be excluded per prior note.",
+        "acquisition_notes": "Compact urban/forest-edge park, short walk. Concrete slide offers good curvature but is a small target; adjacent slope/forest canopy and the trunk road (Ariel Sharon) nearby shape the flight envelope. Residential edge, so privacy and early capture.",
+        "logistics": "moderate",
+        "sources": [
+          "https://www.openstreetmap.org/way/820348323",
+          "https://www.openstreetmap.org/way/245188822",
+          "https://www.kkl.org.il/travel/trips/jerusalem_forest/"
+        ],
+        "uncertainties": [
+          "KKL page not read (bot block); no authoritative entrance/parking source.",
+          "Municipal vs KKL ownership of the exact park not confirmed."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3916198.007737414,
+            3734012.6263620565,
+            3916409.7463390883,
+            3734117.055264243
+          ],
+          "size": [
+            588,
+            290
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-08-focus-cdc238d608.jpg",
+        "extent": [
+          3916198.0077374126,
+          3734012.6263620555,
+          3916409.7463390874,
+          3734117.055264242
+        ],
+        "width": 588,
+        "height": 290,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3916198.007737414%2C3734012.6263620565%2C3916409.7463390883%2C3734117.055264243&bboxSR=3857&imageSR=3857&size=588%2C290&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3915480.44914285,
+            3733699.735991604,
+            3917127.3049336523,
+            3734429.9456346952
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-08-context-6bf64762fb.jpg",
+        "extent": [
+          3915480.4491428495,
+          3733699.7359916037,
+          3917127.304933652,
+          3734429.9456346952
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3915480.44914285%2C3733699.735991604%2C3917127.3049336523%2C3734429.9456346952&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "site": "Ramat Rachel Archaeological Garden",
+      "area": "Ramat Rachel",
+      "geometry_and_materials": "Excavated walls; stepped basins; fragmented masonry; multi-level ground",
+      "main_gate": "Security-adjacency screening; heritage and kibbutz approval",
+      "scout_first": "pending",
+      "source": "https://www.itraveljerusalem.com/attraction/archeological-garden-ramat-rachel",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.739890025,
+        "lon": 35.216750842,
+        "width": 370,
+        "evidence": "https://www.openstreetmap.org/way/219698193",
+        "position": "Mapped target structure",
+        "note": "Target object identified in detailed OpenStreetMap geometry, not a generic park entrance.",
+        "sensor": "Low walls and stepped remains test height discontinuities. Archaeological detail may be below aerial sampling resolution."
+      },
+      "photo": {
+        "image": "assets/ground-10-52cad68363.jpg",
+        "description": "Ground-level view of excavated walls and reconstructed capitals in the Ramat Rachel Archaeological Garden",
+        "author": "DYKT Mohigan",
+        "license": "CC BY 2.0",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ramat_Rachel_(29557901194).jpg",
+        "date": "2011-01-11 10:02",
+        "kind": "ground",
+        "changes": "Resized only; no crop",
+        "source_title": "Ramat Rachel (29557901194).jpg",
+        "sha256": "52cad68363388dd848ec55f0462d817b44e8471acebadbc1ab8edb23811eedc2"
+      },
+      "access_screening": {
+        "name": "Ramat Rachel Archaeological Garden",
+        "vehicle_destination": "Archaeological Garden, Kibbutz Ramat Rachel, Jerusalem; kibbutz entrance/visitor parking not substantiated",
+        "vehicle_lat": null,
+        "vehicle_lon": null,
+        "vehicle_evidence": null,
+        "walking_minutes_estimate": [
+          3,
+          8
+        ],
+        "access_notes": "Source fact (iTravelJerusalem, undated): reopened 2002; Byzantine church, Roman camp and Second Temple mikvehs; free; 'open all hours, every day'. OSM: an untagged lot ~100 m from the garden (way/183040946) and service roads/tracks within ~20-110 m.",
+        "acquisition_notes": "Low walls and stepped remains give height discontinuities, but archaeological detail may fall below aerial sampling resolution; ground capture supplements. Inside a kibbutz with heritage control and security-adjacent screening; light tree canopy only. Small bounded scene.",
+        "logistics": "moderate",
+        "sources": [
+          "https://www.itraveljerusalem.com/attraction/archeological-garden-ramat-rachel",
+          "https://www.openstreetmap.org/way/219698193",
+          "https://www.openstreetmap.org/way/183040946"
+        ],
+        "uncertainties": [
+          "Open-all-hours claim is a stale-prone third-party listing.",
+          "No credible visitor parking point; kibbutz/heritage and security permissions unresolved."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3920093.2379674474,
+            3729108.084484056,
+            3920528.3042826103,
+            3729322.658006841
+          ],
+          "size": [
+            1208,
+            596
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-10-focus-ccf61437ce.jpg",
+        "extent": [
+          3920093.2379674474,
+          3729108.045283594,
+          3920528.3042826103,
+          3729322.6972073005
+        ],
+        "width": 1208,
+        "height": 596,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3920093.2379674474%2C3729108.084484056%2C3920528.3042826103%2C3729322.658006841&bboxSR=3857&imageSR=3857&size=1208%2C596&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3919223.105337121,
+            3728733.1043394892,
+            3921398.4369129366,
+            3729697.6381514077
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-10-context-8cae9ac3da.jpg",
+        "extent": [
+          3919223.105337121,
+          3728733.10433949,
+          3921398.436912937,
+          3729697.6381514086
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3919223.105337121%2C3728733.1043394892%2C3921398.4369129366%2C3729697.6381514077&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "site": "Ein Yael archaeological terraces",
+      "area": "Southwest Jerusalem near Malha",
+      "geometry_and_materials": "Outdoor Roman-villa remains, masonry walls and agricultural terraces. Do not select modern museum buildings or enter protected interiors.",
+      "main_gate": "Controlled museum session by arrangement; children; heritage; rail adjacency",
+      "scout_first": "pending",
+      "source": "https://www.itraveljerusalem.com/attraction/the-ein-yael-hands-on-museum",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7432765,
+        "lon": 35.1777225,
+        "width": 650,
+        "evidence": "https://www.openstreetmap.org/node/561323050",
+        "position": "Mapped venue / scene anchor",
+        "note": "Reviewed OpenStreetMap object: Ein Yael. Not a surveyed position.",
+        "sensor": "Terraces, masonry and vegetation combine several reconstruction regimes. Preserve archaeology and supplement hidden remains."
+      },
+      "photo": {
+        "author": "Bukvoed / Wikimedia Commons",
+        "changes": "Resized only (max 1200 px); no crop (Commons-scaled 1200px rendition fetched; original 2592x1944, output 1200x900)",
+        "date": "2011-10-22",
+        "description": "Ground/overlook view of excavated Roman villa remains (masonry walls, vaulted opening, terraces) at the Ein Yael outdoor museum, Jerusalem.",
+        "image": "assets/ground-30-3a16b38967.jpg",
+        "kind": "ground",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ein-Yael-528.jpg",
+        "source_title": "File:Ein-Yael-528.jpg",
+        "sha256": "3a16b38967acb2737c0fee2817425cab2c4d3e17f5461caf1f1b2fbd7847f77b"
+      },
+      "access_screening": {
+        "name": "Ein Yael archaeology and terraces (Malha)",
+        "vehicle_destination": "Ein Yael Museum, ~2 min from Malha Mall: from the roundabout by Malha train station cross the railway barrier, after ~200 m turn left (sign at entrance) - per operator listing",
+        "vehicle_lat": null,
+        "vehicle_lon": null,
+        "vehicle_evidence": null,
+        "walking_minutes_estimate": [
+          2,
+          8
+        ],
+        "access_notes": "Source fact (iTravelJerusalem): free parking; open to groups with advance registration and to individuals/families only in July-August, intermediate days of Passover/Sukkot and school holidays; activities by prior booking. Directions are verbal, with no coordinate. OSM shows untagged lots 80-215 m from the pin and a rail crossing near the access.",
+        "acquisition_notes": "Poor fit for 'easy/fast': controlled open days/bookings, children's programmes and active cultural users, plus railway adjacency and heritage terraces under vegetation. Terraces, masonry and a mosaic/Roman villa give rich geometry but need arranged access.",
+        "logistics": "high",
+        "sources": [
+          "https://www.itraveljerusalem.com/attraction/the-ein-yael-hands-on-museum",
+          "https://www.openstreetmap.org/node/561323050"
+        ],
+        "uncertainties": [
+          "Listing is undated and may be stale; current opening schedule must be confirmed with the operator.",
+          "No vehicle coordinate; the rail crossing/barrier may be a controlled access."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3915583.989149634,
+            3729470.170287985,
+            3916348.322784532,
+            3729847.137556897
+          ],
+          "size": [
+            1470,
+            725
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-30-focus-35083b4053.jpg",
+        "extent": [
+          3915583.989149633,
+          3729470.170287985,
+          3916348.322784531,
+          3729847.137556897
+        ],
+        "width": 1470,
+        "height": 725,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3915583.989149634%2C3729470.170287985%2C3916348.322784532%2C3729847.137556897&bboxSR=3857&imageSR=3857&size=1470%2C725&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3914055.3218798386,
+            3728811.3972988515,
+            3917876.990054327,
+            3730505.9105460304
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-30-context-3d1de382cb.jpg",
+        "extent": [
+          3914055.3218798395,
+          3728811.3972988515,
+          3917876.990054328,
+          3730505.9105460304
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3914055.3218798386%2C3728811.3972988515%2C3917876.990054327%2C3730505.9105460304&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "site": "Beit Zayit reservoir - dry margins",
+      "area": "Beit Zayit / Motza Valley",
+      "geometry_and_materials": "A small dry shoreline and adjoining landscape patch, with exposed rock, erosion forms and terrain. Water is masked rather than treated as reliable LiDAR ground truth.",
+      "main_gate": "Focus basin not utility installations; seasonal water and recreation",
+      "scout_first": "pending",
+      "source": "https://en.wikipedia.org/wiki/Beit_Zayit",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7834583,
+        "lon": 35.1543628,
+        "width": 1500,
+        "evidence": "https://www.openstreetmap.org/way/36842082",
+        "position": "Mapped venue / scene anchor",
+        "note": "Reviewed OpenStreetMap object: Beit Zait Reservoir. Not a surveyed position.",
+        "sensor": "Terrain and wet-dry interfaces change seasonally. Treat water and moving vegetation as separate evaluation masks."
+      },
+      "photo": {
+        "image": "assets/ground-35-b99a00393f.jpg",
+        "description": "Ground view of the Beit Zayit Reservoir shoreline with exposed rocky margin and the dam wall in the background.",
+        "author": "SuperJew",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Beit_Zayit_Reservoir.jpg",
+        "date": "2013-03-28",
+        "kind": "ground",
+        "changes": "Resized only; no crop",
+        "source_title": "Beit Zayit Reservoir.jpg",
+        "limitation": "Single-date shoreline at one water level; the margin position changes seasonally.",
+        "sha256": "b99a00393fd83439982b4758ae7a38a6789d03a24039a2c17d7ba74c46524000"
+      },
+      "access_screening": {
+        "name": "Beit Zayit reservoir - dry accessible margins",
+        "vehicle_destination": "Beit Zayit Reservoir (Ma'agar Beit Zayit), Nahal Sorek, Beit Zayit / Motza Valley; no public trailhead lot substantiated",
+        "vehicle_lat": null,
+        "vehicle_lon": null,
+        "vehicle_evidence": null,
+        "walking_minutes_estimate": [
+          8,
+          25
+        ],
+        "access_notes": "Source fact (Wikipedia): dam on Nahal Sorek built to collect winter floodwater and recharge the aquifer. OSM: several gates (some access=no tracks) and service roads around the basin; nearest untagged lots ~670 m away; an OSM viewpoint ~420 m. The basin is utility infrastructure, so access is likely controlled.",
+        "acquisition_notes": "Closest to the Motza gateway by position, but the approach is unverified. Water/vegetation moves seasonally; exclude utility installations and water; dry margins and the dam only. Open sky is likely good with little canopy except at the edges.",
+        "logistics": "moderate",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Beit_Zayit",
+          "https://www.openstreetmap.org/way/36842082",
+          "https://www.openstreetmap.org/way/892274043"
+        ],
+        "uncertainties": [
+          "Gates/tracks may be restricted (OSM access=no on a nearby track).",
+          "Ownership/operator of the reservoir and dry-margin legality not found.",
+          "Scene pin differs by ~300 m from the OSM way centre."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3912483.459612773,
+            3734484.4564767196,
+            3914248.072503225,
+            3735354.758752623
+          ],
+          "size": [
+            1470,
+            725
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-35-focus-67e651e152.jpg",
+        "extent": [
+          3912483.459612774,
+          3734484.4564767196,
+          3914248.072503227,
+          3735354.758752623
+        ],
+        "width": 1470,
+        "height": 725,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3912483.459612773%2C3734484.4564767196%2C3914248.072503225%2C3735354.758752623&bboxSR=3857&imageSR=3857&size=1470%2C725&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3908954.2338318694,
+            3732963.550872897,
+            3917777.2982841283,
+            3736875.664356446
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-35-context-66b1ddb636.jpg",
+        "extent": [
+          3908954.23383187,
+          3732963.5508728977,
+          3917777.2982841297,
+          3736875.664356447
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3908954.2338318694%2C3732963.550872897%2C3917777.2982841283%2C3736875.664356446&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3560367",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "19",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707533",
+              "Shape_Area": "296063515",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "site": "Ein Hemed archaeological park",
+      "area": "West of Jerusalem",
+      "geometry_and_materials": "An outdoor archaeological-park scene combining exposed ruins, stone boundaries, creek-side terrain and paths. No standalone building or inaccessible vault is the acquisition target.",
+      "main_gate": "Protected-site research/flight permission; visitors; ground views for vaults",
+      "scout_first": "pending",
+      "source": "https://en.wikipedia.org/wiki/Ein_Hemed",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7962453,
+        "lon": 35.124495957,
+        "width": 850,
+        "evidence": "https://www.openstreetmap.org/way/1084916082",
+        "position": "Archaeological-park vicinity / choose bounded scene",
+        "note": "The anchor is the mapped archaeological ruin; the wider crop is a park-vicinity illustration, not a boundary, vehicle destination or proposed standalone-building scan.",
+        "sensor": "Prioritize exposed terrain, stone boundaries and ruin surfaces visible from outside. Canopy and vaults are occluded; do not promise their reconstruction from UAV data."
+      },
+      "photo": {
+        "image": "assets/ground-36-ae524e8ed3.jpg",
+        "description": "Ground view of the exterior of the Crusader farmhouse (Aqua Bella) at Ein Hemed National Park, the mapped target structure of site 36 (OSM way 1084916082).",
+        "author": "Bukvoed",
+        "license": "CC BY 3.0",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ein-Chemed-141.jpg",
+        "date": "2009-02-14",
+        "kind": "context",
+        "changes": "Resized only; no crop",
+        "source_title": "Ein-Chemed-141.jpg",
+        "sha256": "ae524e8ed3fd5b2202b5dd372da8da24242eb10ef94fae7d0c23fa17c9a45518",
+        "limitation": "Reference view of part of the archaeological ensemble; not a proposed standalone-building scan. Select the permitted outdoor terrain, terrace and surface-remain subscene during reconnaissance. "
+      },
+      "access_screening": {
+        "name": "Ein Hemed / Aqua Bella archaeological park, stream and ruins ensemble",
+        "vehicle_destination": "Ein Hemed (Aqua Bella) National Park visitor entrance, west of Jerusalem; NPA entrance and parking point not substantiated",
+        "vehicle_lat": null,
+        "vehicle_lon": null,
+        "vehicle_evidence": null,
+        "walking_minutes_estimate": [
+          4,
+          12
+        ],
+        "access_notes": "Source fact (Wikipedia): national park and nature reserve ~7 km west of Jerusalem on a Roman road line with a Crusader courtyard building. OSM: two lots tagged access=customers 250-350 m from the ruin, lift gates 250-380 m away, and an untagged lot ~480 m. The NPA page was not readable, so fee, hours and entry rules are unverified.",
+        "acquisition_notes": "Poor fit for 'easy/fast': national-park permission and hours, visitors, stream vegetation canopy, and vaults/undersides that aerial sensors cannot see (ground capture needed). Use the park, stream and ruins ensemble only, not the standalone courtyard building.",
+        "logistics": "high",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ein_Hemed",
+          "https://www.openstreetmap.org/way/90622904",
+          "https://www.openstreetmap.org/way/1084916082"
+        ],
+        "uncertainties": [
+          "NPA source unreadable (page-not-found, then 403); no authoritative access facts.",
+          "Customers-only lots may belong to a commercial venue, not park visitor parking."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3909540.961490303,
+            3736347.6534553245,
+            3910541.04711697,
+            3736840.8929650756
+          ],
+          "size": [
+            1470,
+            725
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-36-focus-51738c5db0.jpg",
+        "extent": [
+          3909540.9614903033,
+          3736347.653455325,
+          3910541.047116971,
+          3736840.892965076
+        ],
+        "width": 1470,
+        "height": 725,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3909540.961490303%2C3736347.6534553245%2C3910541.04711697%2C3736840.8929650756&bboxSR=3857&imageSR=3857&size=1470%2C725&format=jpg&f=json&dpi=96",
+        "reduced_export": false
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3907540.7902369685,
+            3735485.6877278094,
+            3912541.2183703044,
+            3737702.8586925906
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-36-context-d70887ec9a.jpg",
+        "extent": [
+          3907540.790236967,
+          3735485.6877278094,
+          3912541.2183703035,
+          3737702.8586925906
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3907540.7902369685%2C3735485.6877278094%2C3912541.2183703044%2C3737702.8586925906&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96",
+        "reduced_export": false
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3560367",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "19",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707533",
+              "Shape_Area": "296063515",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "site": "Tel Tzuba / Belmont Castle ruins",
+      "area": "Near Kibbutz Tzuba",
+      "geometry_and_materials": "Broken masonry; surviving vaults; hilltop relief; occlusions",
+      "main_gate": "Heritage and landowner consent; unstable masonry; respect layered history",
+      "scout_first": "pending",
+      "source": "https://en.wikipedia.org/wiki/Tzova",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7848554,
+        "lon": 35.1257839,
+        "width": 500,
+        "evidence": "https://www.openstreetmap.org/node/695794432",
+        "position": "Mapped venue / scene anchor",
+        "note": "Reviewed OpenStreetMap object: Tel Tzuba. Not a surveyed position.",
+        "sensor": "Broken walls and hilltop relief challenge visibility and surface continuity. Ruin stability constrains ground supplementation."
+      },
+      "photo": {
+        "image": "assets/ground-37-0c2c44afc6.jpg",
+        "description": "Ground view of the Crusader-era citadel remains on Tel Tzuba (Belmont Castle site, Wiki Loves Monuments-tagged at the Tel Tzuba position).",
+        "author": "Maayan Priel",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:%D7%AA%D7%9C_%D7%A6%D7%95%D7%91%D7%94,_%D7%A9%D7%A8%D7%99%D7%93%D7%99_%D7%94%D7%9E%D7%A6%D7%95%D7%93%D7%94.jpg",
+        "date": "2021-10-08",
+        "kind": "ground",
+        "changes": "Resized only; no crop",
+        "source_title": "\u05ea\u05dc \u05e6\u05d5\u05d1\u05d4, \u05e9\u05e8\u05d9\u05d3\u05d9 \u05d4\u05de\u05e6\u05d5\u05d3\u05d4.jpg",
+        "sha256": "0c2c44afc689511c8892248dffdedb5cd881e565520be692f1cf3f2c6445a832"
+      },
+      "access_screening": {
+        "name": "Tel Tzuba / Belmont ruins",
+        "vehicle_destination": "Tel Tzuba near Kibbutz Tzuba (Belmont Crusader fortress ruins); public parking and permitted track not substantiated",
+        "vehicle_lat": null,
+        "vehicle_lon": null,
+        "vehicle_evidence": null,
+        "walking_minutes_estimate": [
+          8,
+          25
+        ],
+        "access_notes": "Source fact (Wikipedia): Crusader fortress Belmont (1170) on Tel Tzova, later the site of the village of Suba and now adjacent to Kibbutz Tzuba. OSM: a dirt lot tagged fee=no ~460 m away (way/55383139), another untagged lot ~350 m away, and several gates (one access=yes, one access=no) within ~250 m.",
+        "acquisition_notes": "Poor fit for 'easy/fast': landowner/kibbutz and heritage consent, gated approaches, unstable masonry, hilltop relief with vegetation. Aerial coverage cannot see wall faces and ground supplementation is limited by ruin stability.",
+        "logistics": "high",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Tzova",
+          "https://www.openstreetmap.org/node/695794432",
+          "https://www.openstreetmap.org/way/55383139"
+        ],
+        "uncertainties": [
+          "Wikipedia is not an access source; no authoritative route or permission information.",
+          "Parking and gates may serve the kibbutz and not public visitors."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3909890.2708704225,
+            3734957.5167378783,
+            3910478.484054712,
+            3735247.62187979
+          ],
+          "size": [
+            1470,
+            725
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-37-focus-532f55b144.jpg",
+        "extent": [
+          3909890.270870421,
+          3734957.516737877,
+          3910478.4840547107,
+          3735247.6218797886
+        ],
+        "width": 1470,
+        "height": 725,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3909890.2708704225%2C3734957.5167378783%2C3910478.484054712%2C3735247.62187979&bboxSR=3857&imageSR=3857&size=1470%2C725&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3908713.844501844,
+            3734450.5405432307,
+            3911654.9104232905,
+            3735754.5980744376
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-37-context-027b1eb42e.jpg",
+        "extent": [
+          3908713.8445018446,
+          3734450.5405432303,
+          3911654.910423291,
+          3735754.5980744376
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3908713.844501844%2C3734450.5405432307%2C3911654.9104232905%2C3735754.5980744376&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3560367",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "19",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707533",
+              "Shape_Area": "296063515",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "site": "Havat HaGatot / Winepress Farm",
+      "area": "Sorek ridge - Aminadav Forest",
+      "geometry_and_materials": "Rock-cut winepresses; basins; channels; farm ruins; exposed bedrock",
+      "main_gate": "KKL/heritage approval; sufficient spatial resolution; ground reference for fine relief",
+      "scout_first": "pending",
+      "source": "https://www.kkl.org.il/travel/trips/aminadav-forest/",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7506905,
+        "lon": 35.1016211,
+        "width": 400,
+        "evidence": "https://www.openstreetmap.org/node/961523594",
+        "position": "Winepresses-area anchor / detail unconfirmed",
+        "note": "Reviewed OpenStreetMap object: Winepresses. Not a surveyed position.",
+        "sensor": "Shallow rock-cut basins and channels require fine sampling. Verify exact press locations and add close-range reference capture."
+      },
+      "photo": {
+        "image": "assets/ground-39-85b29ad0cc.jpg",
+        "description": "Ground view of a rock-cut winepress with a millstone-type press stone at Havat HaGatot (Winepress Farm), Sorek ridge / Aminadav Forest; a same-spot, same-day photo (IHM \u05d2\u05ea 8) shows the site sign '\u05d7\u05d5\u05d5\u05ea \u05d4\u05d2\u05ea\u05d5\u05ea'.",
+        "author": "Natalia Satin",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:IHM_%D7%92%D7%AA_7.jpeg",
+        "date": "2021-05-01",
+        "kind": "ground",
+        "changes": "Resized only; no crop",
+        "source_title": "IHM \u05d2\u05ea 7.jpeg",
+        "limitation": "One of several presses on the ridge; geotag 31.75028, 35.10263 is about 110 m from the OSM Winepresses anchor.",
+        "sha256": "85b29ad0cc2eb9445d3e5b0cedb5629552ae662d51e8e20e9c7975f7419e9ae0"
+      },
+      "access_screening": {
+        "name": "Havat HaGatot / Winepress Farm (Aminadav Forest)",
+        "vehicle_destination": "Havat HaGatot (Winepress Farm) picnic site, Aminadav Forest, Sorek ridge; paved approach and parking not substantiated",
+        "vehicle_lat": null,
+        "vehicle_lon": null,
+        "vehicle_evidence": null,
+        "walking_minutes_estimate": null,
+        "access_notes": "Source fact (OSM): picnic_site 'Havat HaGatot' with mapped rock-cut winepresses within ~120 m; only tracks and paths, no parking within 1.5 km. The KKL Aminadav Forest page (cited earlier) returned a bot block and could not be read.",
+        "acquisition_notes": "Poor fit for 'easy/fast': no verifiable vehicle access, probable forest-track/walking approach, and fine shallow rock-cut basins that need very high spatial resolution plus close-range reference capture. Winepress locations remain to be confirmed on the ground.",
+        "logistics": "high",
+        "sources": [
+          "https://www.openstreetmap.org/node/961523594",
+          "https://www.kkl.org.il/travel/trips/aminadav-forest/"
+        ],
+        "uncertainties": [
+          "No parking or paved-road source; walking time cannot be estimated.",
+          "KKL/heritage consent unresolved; page unread."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3907259.388460068,
+            3730513.188792126,
+            3907729.7852807865,
+            3730745.187224113
+          ],
+          "size": [
+            1306,
+            644
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-39-focus-01a125dee9.jpg",
+        "extent": [
+          3907259.3462243285,
+          3730513.1887921253,
+          3907729.827516526,
+          3730745.1872241125
+        ],
+        "width": 1306,
+        "height": 644,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3907259.388460068%2C3730513.188792126%2C3907729.7852807865%2C3730745.187224113&bboxSR=3857&imageSR=3857&size=1306%2C644&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3906318.594818631,
+            3730107.757570059,
+            3908670.5789222233,
+            3731150.6184461797
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-39-context-a583227077.jpg",
+        "extent": [
+          3906318.5948186307,
+          3730107.7575700586,
+          3908670.578922223,
+          3731150.6184461797
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3906318.594818631%2C3730107.757570059%2C3908670.5789222233%2C3731150.6184461797&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3560367",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "19",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707533",
+              "Shape_Area": "296063515",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "site": "Sataf irrigated terraces and spring-pool exteriors",
+      "area": "West of Ein Karem",
+      "geometry_and_materials": "Repeated retaining walls; channels; pools; orchard canopies; stepped terrain",
+      "main_gate": "KKL consent; current access works; no entry to cultivated plots or closed tunnels",
+      "scout_first": "pending",
+      "source": "https://www.kkl.org.il/travel/trips/sataf/",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7710015,
+        "lon": 35.1273875,
+        "width": 900,
+        "evidence": "https://www.openstreetmap.org/node/1125522118",
+        "position": "Mapped venue / scene anchor",
+        "note": "Reviewed OpenStreetMap object: Ein Sataf. Not a surveyed position.",
+        "sensor": "Repeated terrace steps, channels and orchard canopies. Separate stable retaining walls from changing crops and water."
+      },
+      "photo": {
+        "image": "assets/ground-41-f7215d9614.jpg",
+        "description": "Low oblique view of the Ein Sataf spring-pool exterior with stone walls, steps and terraced plots among trees, geotagged about 20 m from the OSM Ein Sataf anchor.",
+        "author": "Hagai Agmon-Snir \u062d\u0686\u0627\u064a \u0627\u0686\u0645\u0648\u0646-\u0633\u0646\u064a\u0631 \u05d7\u05d2\u05d9 \u05d0\u05d2\u05de\u05d5\u05df-\u05e9\u05e0\u05d9\u05e8",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:SatafNov062022_05.jpg",
+        "date": "2022-11-06",
+        "kind": "oblique",
+        "changes": "Resized only; no crop",
+        "source_title": "SatafNov062022 05.jpg",
+        "limitation": "Single date (2022-11-06); crop canopy and cultivation change seasonally. Pool exterior only.",
+        "sha256": "f7215d9614f83f1b3782d1f8035bd777412bb21af79306b8eaeb3491ca98c72b"
+      },
+      "access_screening": {
+        "name": "Sataf terraces and spring-pool exteriors",
+        "vehicle_destination": "Sataf upper parking (KKL 'Hanya Elyona'), reached from the Sataf roundabout before Kibbutz Tzuba, via a short paved road (~400 m)",
+        "vehicle_lat": 31.775477,
+        "vehicle_lon": 35.126887,
+        "vehicle_evidence": "https://www.openstreetmap.org/way/97171840",
+        "walking_minutes_estimate": [
+          10,
+          25
+        ],
+        "access_notes": "Source fact (KKL Sataf page; content 2025, notices to 5 Nov 2026): free entry and free parking; upper parking beside the KKL forest hub and the cafe (07:00-17:00 summer, 07:00-15:00 winter, Fri to 15:00). Directions: Route 1 via Har-El, Maoz Zion, Road 3965 toward Tzuba, then a short paved road; alternatively Road 395 from Ein Kerem or Eshtaol. Buses may not descend from the upper lot since 3 May 2026. Entry to cultivated plots is prohibited; keep to marked paths. OSM names the upper (way/97171840, fee=no), middle (node 6449291973, ~135 m from the spring pin) and lower (node 1125522164) lots. Planning estimate: 10-25 min from the upper lot (~500 m straight, steep path), 3-8 min if the middle lot is used.",
+        "acquisition_notes": "Best-supported site in this set: a documented KKL day-use site with parking and a staffed hub. Repeated terraces, channels and retaining walls suit the metric, but orchards, olive canopy and crops change seasonally and the spring/pools hold water. Visitors are present during the day; consult the KKL hub on drone rules. Respect current notices (Har Eitan trail works, Nahal Sorek sewage work).",
+        "logistics": "moderate",
+        "sources": [
+          "https://www.kkl.org.il/travel/trips/sataf/",
+          "https://www.openstreetmap.org/way/97171840",
+          "https://www.openstreetmap.org/node/6449291973",
+          "https://www.openstreetmap.org/node/1125522164"
+        ],
+        "uncertainties": [
+          "Coordinate is the OSM upper-lot centre matched to the KKL text; whether the middle lot is open to cars is unverified.",
+          "KKL geodata for the site is 31.76985, 35.12637 (~630 m from the upper-lot point), which looks like a site/middle-lot centroid.",
+          "Drone permission for KKL land is not addressed."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3909833.57682437,
+            3733027.3542324295,
+            3910892.201971635,
+            3733549.4652744485
+          ],
+          "size": [
+            1470,
+            725
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-41-focus-16d629aa05.jpg",
+        "extent": [
+          3909833.57682437,
+          3733027.3542324295,
+          3910892.2019716357,
+          3733549.4652744485
+        ],
+        "width": 1470,
+        "height": 725,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3909833.57682437%2C3733027.3542324295%2C3910892.201971635%2C3733549.4652744485&bboxSR=3857&imageSR=3857&size=1470%2C725&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3907716.3265298386,
+            3732114.933764725,
+            3913009.4522661665,
+            3734461.885742153
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-41-context-a5ae6a2c20.jpg",
+        "extent": [
+          3907716.3265298386,
+          3732114.9337647245,
+          3913009.4522661665,
+          3734461.885742153
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3907716.3265298386%2C3732114.933764725%2C3913009.4522661665%2C3734461.885742153&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3560367",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "19",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707533",
+              "Shape_Area": "296063515",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "site": "Ein Handak surface terraces and pool surroundings",
+      "area": "West of Ein Karem",
+      "geometry_and_materials": "Stepped agriculture; stonework; spring-pool surroundings; slope occlusion",
+      "main_gate": "Reserve candidate: tunnel closed for collapse risk; confirm permitted surface approach",
+      "scout_first": "pending",
+      "source": "https://www.kkl.org.il/travel/trips/aminadav-forest/",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7621498,
+        "lon": 35.1387558,
+        "width": 500,
+        "evidence": "https://www.openstreetmap.org/node/4319817216",
+        "position": "Mapped venue / scene anchor",
+        "note": "Reviewed OpenStreetMap object: Ein Handak. Not a surveyed position.",
+        "sensor": "Surface landscape only. Terrace and pool surroundings can be studied without entering the closed, unsafe tunnel."
+      },
+      "photo": {
+        "image": "assets/ground-44-7c9db39823.jpg",
+        "description": "Ground view of the fenced Ein Handak spring opening with a red Hebrew danger sign ('\u05e1\u05db\u05e0\u05d4! \u05de\u05d1\u05e0\u05d4 \u05de\u05e1\u05d5\u05db\u05df'); geotagged at the OSM Ein Handak anchor.",
+        "author": "zstadler",
+        "license": "Public domain (PD-self)",
+        "license_url": "https://commons.wikimedia.org/wiki/File:IHM_%D7%A2%D7%99%D7%9F_%D7%97%D7%A0%D7%93%D7%A7.jpeg#Licensing",
+        "source": "https://commons.wikimedia.org/wiki/File:IHM_%D7%A2%D7%99%D7%9F_%D7%97%D7%A0%D7%93%D7%A7.jpeg",
+        "date": "2024-03-25",
+        "kind": "context",
+        "changes": "Resized only; no crop",
+        "source_title": "IHM \u05e2\u05d9\u05df \u05d7\u05e0\u05d3\u05e7.jpeg",
+        "limitation": "Context only: shows just the closed, fenced spring entrance and its hazard sign, not the surface terraces or pool surroundings. The tunnel is closed for collapse risk and must not be entered. Licence: Commons {{PD-self}} declaration by the author (zstadler), not a CC0 dedication.",
+        "sha256": "7c9db3982384299d244432793a3134ebf61154aa89a41b264dd2db34f0e46e19"
+      },
+      "access_screening": {
+        "name": "Ein Handak surface terraces and pool surroundings (no tunnel entry)",
+        "vehicle_destination": "Sataf lower parking (KKL 'Hanya Tahtona'), start of the open section along Nahal Sorek toward the Ein Handak turn-off; ~1 km straight line from the spring",
+        "vehicle_lat": 31.769128,
+        "vehicle_lon": 35.130957,
+        "vehicle_evidence": "https://www.openstreetmap.org/node/1125522164",
+        "walking_minutes_estimate": [
+          25,
+          50
+        ],
+        "access_notes": "Source fact (KKL Sataf page, notices updated 5 Nov 2026): Ein Handak is listed among the park's special sites and is reached by a black-marked trail branching off the Shomerot trail; the Nahal Sorek section from the lower parking to the Ein Handak turn is open, but beyond the turn toward Ein Kerem it is closed until further notice. The earlier note says the tunnel is closed; no tunnel entry is planned. OSM lower lot is named and tied to the KKL text. Another untagged lot ~310 m from the spring (way/894519148) is not substantiated. Planning estimate based on ~1.1 km straight line plus slope and payload.",
+        "acquisition_notes": "Poor fit for 'easy/fast': long equipment carry on trail, closed sections and sewage-pipe works, steep terrain, and terraces that may sit under vegetation. Treat as a reserve scene behind Sataf; surface terraces only.",
+        "logistics": "high",
+        "sources": [
+          "https://www.kkl.org.il/travel/trips/sataf/",
+          "https://www.openstreetmap.org/node/1125522164",
+          "https://www.openstreetmap.org/node/4319817216"
+        ],
+        "uncertainties": [
+          "Which trailhead (lower vs upper/middle lot) is the practical start is not source-confirmed.",
+          "Closure status may change; notice dates stated by KKL only.",
+          "Walking time is a rough estimate with high variance."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3911334.3683541175,
+            3731984.4104372505,
+            3911922.4371762583,
+            3732274.4443801427
+          ],
+          "size": [
+            1470,
+            725
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-44-focus-428a96d1b8.jpg",
+        "extent": [
+          3911334.3683541166,
+          3731984.4104372505,
+          3911922.4371762574,
+          3732274.444380143
+        ],
+        "width": 1470,
+        "height": 725,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3911334.3683541175%2C3731984.4104372505%2C3911922.4371762583%2C3732274.4443801427&bboxSR=3857&imageSR=3857&size=1470%2C725&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3910158.230709837,
+            3731477.558667173,
+            3913098.574820539,
+            3732781.29615022
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-44-context-85f70bcb84.jpg",
+        "extent": [
+          3910158.230709837,
+          3731477.5586671727,
+          3913098.574820539,
+          3732781.29615022
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3910158.230709837%2C3731477.558667173%2C3913098.574820539%2C3732781.29615022&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3560367",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "19",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707533",
+              "Shape_Area": "296063515",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "site": "Khirbet Saadim",
+      "area": "Aminadav Forest",
+      "geometry_and_materials": "Surviving stone arch and walls; large oak/carob trees; ruin-canopy occlusion",
+      "main_gate": "Nature-reserve permission; exclude commemorative features; heritage respect",
+      "scout_first": "pending",
+      "source": "https://www.kkl.org.il/travel/trips/aminadav-forest/",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7509996,
+        "lon": 35.1293945,
+        "width": 450,
+        "evidence": "https://www.openstreetmap.org/node/278475574",
+        "position": "Mapped venue / scene anchor",
+        "note": "Reviewed OpenStreetMap object: Hurvat Seadim. Not a surveyed position.",
+        "sensor": "Stone arch and old trees form a strong occlusion case. Aerial observations alone will not cover all ruin surfaces."
+      },
+      "photo": {
+        "image": "assets/ground-45-4652f4ed6b.jpg",
+        "description": "Low oblique view over the ruin of Hurvat Seadim (Khirbet Saadim) with a stone arch and surrounding trees, geotagged at the OSM Hurvat Seadim anchor.",
+        "author": "mosherf",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:IHM_%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%A1%D7%A2%D7%93%D7%99%D7%9D_1.jpeg",
+        "date": "2022-01-09",
+        "kind": "oblique",
+        "changes": "Resized only; no crop",
+        "source_title": "IHM \u05d7\u05d5\u05e8\u05d1\u05ea \u05e1\u05e2\u05d3\u05d9\u05dd 1.jpeg",
+        "limitation": "Not the Kennedy memorial. Dawn lighting; shows the ruin from one side only.",
+        "sha256": "4652f4ed6b39b8ec949efa79e8de4175bc4730c5f7838cad4ca6ffdc97566b68"
+      },
+      "access_screening": {
+        "name": "Khirbet Saadim (Hurvat Seadim, Aminadav Forest)",
+        "vehicle_destination": "Mapped public parking beside the Hurvat Seadim picnic site and information board (Aminadav Forest); paved approach road not identified",
+        "vehicle_lat": 31.750622,
+        "vehicle_lon": 35.130685,
+        "vehicle_evidence": "https://www.openstreetmap.org/node/14123777217",
+        "walking_minutes_estimate": [
+          3,
+          8
+        ],
+        "access_notes": "Source fact (OSM only): parking node tagged access=yes, fee=no, ~130 m from the ruin, with an access=yes picnic site and an information board within ~150 m. The nearest mapped way to the lot is a track ~35 m away, so the paved approach is not established. The KKL Aminadav page was bot-blocked.",
+        "acquisition_notes": "Short walk. Stone arch and old trees form a strong occlusion case, so aerial data will not cover all ruin surfaces; plan ground supplementation. Exclude commemorative features; reserve/heritage permission was flagged earlier and is unverified.",
+        "logistics": "moderate",
+        "sources": [
+          "https://www.openstreetmap.org/node/14123777217",
+          "https://www.openstreetmap.org/node/14123777218",
+          "https://www.openstreetmap.org/node/278475574",
+          "https://www.kkl.org.il/travel/trips/aminadav-forest/"
+        ],
+        "uncertainties": [
+          "OSM-only evidence; KKL source unread.",
+          "Whether the access road is paved and open to ordinary cars is unknown.",
+          "Nature-reserve status unverified."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3910321.7085210024,
+            3730539.1530615236,
+            3910850.906711047,
+            3730800.1521688583
+          ],
+          "size": [
+            1469,
+            725
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-45-focus-1d01572b2a.jpg",
+        "extent": [
+          3910321.708521002,
+          3730539.064225883,
+          3910850.9067110466,
+          3730800.2410044963
+        ],
+        "width": 1469,
+        "height": 725,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3910321.7085210024%2C3730539.1530615236%2C3910850.906711047%2C3730800.1521688583&bboxSR=3857&imageSR=3857&size=1469%2C725&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3909263.3121409127,
+            3730083.041413962,
+            3911909.3030911367,
+            3731256.26381642
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-45-context-0841bdf83e.jpg",
+        "extent": [
+          3909263.312140912,
+          3730083.041413962,
+          3911909.3030911363,
+          3731256.26381642
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3909263.3121409127%2C3730083.041413962%2C3911909.3030911367%2C3731256.26381642&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3560367",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "19",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707533",
+              "Shape_Area": "296063515",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "46",
+      "site": "Ein Lavan",
+      "area": "Lavan ridge - southwest Jerusalem",
+      "geometry_and_materials": "Spring pools; terraced masonry; slopes; orchard and wet-dry interfaces",
+      "main_gate": "Bathers/privacy; environmental permission; water is not reliable geometric reference",
+      "scout_first": "pending",
+      "source": "https://en.wikipedia.org/wiki/Ein_Lavan",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.749062,
+        "lon": 35.1592586,
+        "width": 450,
+        "evidence": "https://www.openstreetmap.org/relation/19161609",
+        "position": "Mapped venue / scene anchor",
+        "note": "Reviewed OpenStreetMap object: Ein Lavan. Not a surveyed position.",
+        "sensor": "Stone pool edges and terraces meet vegetation and water. Mask bathers and water; do not assume thermal contrast is stable."
+      },
+      "photo": {
+        "image": "assets/ground-46-40d88e2c27.jpg",
+        "description": "Low oblique view of the Ein Lavan pool with surrounding stone-edged terraces and paths, geotagged about 35 m from the OSM Ein Lavan anchor.",
+        "author": "Hagai Agmon-Snir \u062d\u0686\u0627\u064a \u0627\u0686\u0645\u0648\u0646-\u0633\u0646\u064a\u0631 \u05d7\u05d2\u05d9 \u05d0\u05d2\u05de\u05d5\u05df-\u05e9\u05e0\u05d9\u05e8",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:EinLavanApr172022_01.jpg",
+        "date": "2022-04-17",
+        "kind": "oblique",
+        "changes": "Resized only; no crop",
+        "source_title": "EinLavanApr172022 01.jpg",
+        "limitation": "Single date (2022-04-17); vegetation and water level are seasonal. The Commons description mentions the site's former agricultural use by the village of Al Walaja.",
+        "sha256": "40d88e2c27fd9fe5cf61584b6bf344e0a4951711d5af5d59c3ba2719c9f09823"
+      },
+      "access_screening": {
+        "name": "Ein Lavan (Lavan ridge)",
+        "vehicle_destination": "Ein Lavan spring and pool area, Lavan ridge, southwest Jerusalem; no substantiated parking or entrance (an untagged OSM lot and an unnamed picnic site lie within ~70 m of the spring pin)",
+        "vehicle_lat": null,
+        "vehicle_lon": null,
+        "vehicle_evidence": null,
+        "walking_minutes_estimate": [
+          3,
+          12
+        ],
+        "access_notes": "Source fact (Wikipedia): spring with agricultural terraces, watchtowers, winepresses, canals and pools; historically used by the villagers of al-Walaja. OSM: many mapped gates (several access=no or private) and paths, plus a track tagged asphalt with motor_vehicle=yes ~35 m from the untagged lot. This does not establish public vehicle access.",
+        "acquisition_notes": "Poor fit for 'easy/fast': bathers and privacy, an environmental permit, gate-controlled approaches and tree canopy over the spring. Water is not a geometric reference; terraces and stone pool edges are the target.",
+        "logistics": "high",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ein_Lavan",
+          "https://www.openstreetmap.org/relation/19161609",
+          "https://www.openstreetmap.org/node/7645638485"
+        ],
+        "uncertainties": [
+          "Untagged lot not accepted as a vehicle point.",
+          "Gate access=no/private tags may apply to the approach.",
+          "No authoritative source read."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3913646.170463191,
+            3730285.504763157,
+            3914175.3575788583,
+            3730546.49840864
+          ],
+          "size": [
+            1469,
+            725
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-46-focus-fdaea58f10.jpg",
+        "extent": [
+          3913646.170463191,
+          3730285.4159293766,
+          3914175.3575788583,
+          3730546.587242419
+        ],
+        "width": 1469,
+        "height": 725,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3913646.170463191%2C3730285.504763157%2C3914175.3575788583%2C3730546.49840864&bboxSR=3857&imageSR=3857&size=1469%2C725&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3912587.796231855,
+            3729829.402660512,
+            3915233.731810194,
+            3731002.600511285
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-46-context-2e3f6b8f33.jpg",
+        "extent": [
+          3912587.7962318547,
+          3729829.402660512,
+          3915233.731810194,
+          3731002.600511285
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3912587.796231855%2C3729829.402660512%2C3915233.731810194%2C3731002.600511285&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3559793",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250103",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "1/3/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "87080.997359",
+              "Shape_Area": "256144601.5",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "47",
+      "site": "Ein Sarig",
+      "area": "Even Sapir / Aminadav foothills",
+      "geometry_and_materials": "Small spring-pool setting; terraces; rocks; dense vegetation",
+      "main_gate": "Visitors; canopy; hospital/heliport adjacency screening",
+      "scout_first": "pending",
+      "source": "https://www.kkl.org.il/travel/trips/aminadav-forest/",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7570811,
+        "lon": 35.1487858,
+        "width": 350,
+        "evidence": "https://www.openstreetmap.org/node/4421914078",
+        "position": "Mapped venue / scene anchor",
+        "note": "Reviewed OpenStreetMap object: Ein Sarig. Not a surveyed position.",
+        "sensor": "A compact but canopy-obscured spring scene. Check whether enough stable stone surfaces are visible for geometric evaluation."
+      },
+      "photo": {
+        "image": "assets/ground-47-b719448348.jpg",
+        "description": "Ground view of the Ein Sarig spring: stone outcrop with water spouts above a basin, captioned 'Ein Sarig, Hadassah Trail' and categorised under Ein Sarig (Al-Jura, Jerusalem) on Commons.",
+        "author": "Deror_avi",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ein_Sarig_P1150440.JPG",
+        "date": "2012-05-25",
+        "kind": "ground",
+        "changes": "Resized only; no crop",
+        "source_title": "Ein Sarig P1150440.JPG",
+        "limitation": "No geotag; identified by Commons caption and category, not by coordinates. Compact canopy-covered scene; shows the spring face only.",
+        "sha256": "b719448348b9a15a044b0944c1c4125fe99be2a0cd9acbc253e10eb8f40ee9c8"
+      },
+      "access_screening": {
+        "name": "Ein Sarig (Even Sapir / Aminadav foothills)",
+        "vehicle_destination": "Ein Sarig spring area near Even Sapir; nearest OSM public-tagged lot is ~490 m away (way/362670132, capacity 25, access=yes, fee=no) but is not tied to the spring",
+        "vehicle_lat": null,
+        "vehicle_lon": null,
+        "vehicle_evidence": null,
+        "walking_minutes_estimate": [
+          8,
+          20
+        ],
+        "access_notes": "Source fact (OSM): untagged lot ~150 m from the spring (node 4319817233) on an asphalt service road; mapped gates with access=no 150-220 m away; nearby ruins and a 'three religions' shrine. Walking estimate uses the 490 m tagged lot as a conservative basis. KKL page unread.",
+        "acquisition_notes": "Poor fit for 'easy/fast': compact spring scene under dense canopy with few stable stone surfaces visible from above, gate-restricted surroundings, and hospital/heliport adjacency screening.",
+        "logistics": "high",
+        "sources": [
+          "https://www.openstreetmap.org/node/4421914078",
+          "https://www.openstreetmap.org/way/362670132",
+          "https://www.openstreetmap.org/node/4319817233"
+        ],
+        "uncertainties": [
+          "No site-specific parking confirmation; gates may mark restricted land.",
+          "Heliport/hospital airspace constraint not checked."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3912539.124441671,
+            3731364.30935357,
+            3912950.7500740187,
+            3731567.3219953743
+          ],
+          "size": [
+            1143,
+            564
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-47-focus-56042d598b.jpg",
+        "extent": [
+          3912539.124441672,
+          3731364.2597441827,
+          3912950.7500740197,
+          3731567.3716047634
+        ],
+        "width": 1143,
+        "height": 564,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3912539.124441671%2C3731364.30935357%2C3912950.7500740187%2C3731567.3219953743&bboxSR=3857&imageSR=3857&size=1143%2C564&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3911715.873176975,
+            3731009.5325442753,
+            3913774.0013387147,
+            3731922.098804669
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-47-context-2637015bc1.jpg",
+        "extent": [
+          3911715.8731769756,
+          3731009.5325442757,
+          3913774.001338715,
+          3731922.09880467
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3911715.873176975%2C3731009.5325442753%2C3913774.0013387147%2C3731922.098804669&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3560367",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "19",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707533",
+              "Shape_Area": "296063515",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "48",
+      "site": "Ein Kobi archaeological waterworks",
+      "area": "Near Mevo Beitar",
+      "geometry_and_materials": "The outdoor waterworks and terrace ensemble: basins, retaining walls and archaeological surface remains. No standalone building, underground chamber or tunnel is the acquisition target.",
+      "main_gate": "KKL/heritage permission; underground system outside UAV scene; regional screening",
+      "scout_first": "pending",
+      "source": "https://www.kkl.org.il/travel/kkl_p_beg/",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7257106,
+        "lon": 35.1175602,
+        "width": 500,
+        "evidence": "https://www.openstreetmap.org/node/702033462",
+        "position": "Mapped venue / scene anchor",
+        "note": "Reviewed OpenStreetMap object: Ein Kobi. Not a surveyed position.",
+        "sensor": "Capture a bounded outdoor basin, terrace and archaeological-surface scene. Underground waterworks and standalone-building interiors are outside the aerial scope."
+      },
+      "photo": {
+        "image": "assets/ground-48-300a6b6a0c.jpg",
+        "description": "Ground view of the above-ground Ein Kobi springhouse (small stone building), basin and dry-stone terraces among orchard trees; the underground chamber is not shown.",
+        "author": "AVRAHAM GRAICER",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:EIN_KOBI.JPG",
+        "date": "2015-01-10",
+        "kind": "context",
+        "changes": "Resized only; no crop",
+        "source_title": "EIN KOBI.JPG",
+        "limitation": "Reference view of part of the archaeological ensemble; not a proposed standalone-building scan. Select the permitted outdoor terrain, terrace and surface-remain subscene during reconnaissance. Photographed under snow (2015-01-10); surface appearance differs by season. Single exterior view only.",
+        "sha256": "300a6b6a0c26cfbef758ba1696b858f41efccb6568c8bd46c8088bca05af6337"
+      },
+      "access_screening": {
+        "name": "Ein Kobi archaeological waterworks and terraces ensemble",
+        "vehicle_destination": "Ein Kobi (Horvat Kobi) near Mevo Beitar; an untagged OSM lot lies ~45 m from the spring pin but its public status is unestablished",
+        "vehicle_lat": null,
+        "vehicle_lon": null,
+        "vehicle_evidence": null,
+        "walking_minutes_estimate": [
+          2,
+          10
+        ],
+        "access_notes": "Source fact (OSM): spring node, untagged lot and a gate ~40 m away; surrounding ways are gravel tracks and paths (no mapped paved road within ~50 m of the lot). Ruins/archaeological nodes are 330-370 m to the north-east. No KKL page was read.",
+        "acquisition_notes": "Poor fit for 'easy/fast': rural/regional location with unestablished vehicle approach, KKL/heritage permission, tracks only, and the underground waterworks lie outside the aerial scene. Only terraces and surface features can be captured.",
+        "logistics": "high",
+        "sources": [
+          "https://www.openstreetmap.org/node/702033462",
+          "https://www.openstreetmap.org/way/702187325",
+          "https://www.kkl.org.il/travel/kkl_p_beg/"
+        ],
+        "uncertainties": [
+          "No credible source for public vehicle access; the gate may be restrictive.",
+          "Pin and ruin nodes differ by ~350 m, so the scene extent is unclear."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3908975.000624758,
+            3727214.52944315,
+            3909562.838107503,
+            3727504.4492900814
+          ],
+          "size": [
+            1470,
+            725
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-48-focus-6334b57c1b.jpg",
+        "extent": [
+          3908975.000624758,
+          3727214.52944315,
+          3909562.838107503,
+          3727504.449290082
+        ],
+        "width": 1470,
+        "height": 725,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3908975.000624758%2C3727214.52944315%2C3909562.838107503%2C3727504.4492900814&bboxSR=3857&imageSR=3857&size=1470%2C725&format=jpg&f=json&dpi=96"
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3907799.3256592695,
+            3726707.87706263,
+            3910738.5130729917,
+            3728011.1016706014
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-48-context-5216ae7b33.jpg",
+        "extent": [
+          3907799.325659268,
+          3726707.87706263,
+          3910738.513072991,
+          3728011.1016706014
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3907799.3256592695%2C3726707.87706263%2C3910738.5130729917%2C3728011.1016706014&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 9,
+            "layerName": "30cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3560367",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "19",
+              "MaxMapLevel": "19",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707533",
+              "Shape_Area": "296063515",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid Advanced",
+            "attributes": {
+              "OBJECTID": "3558840",
+              "Shape": "Polygon",
+              "SRC_DATE": "20250204",
+              "SRC_RES": "0.34",
+              "SRC_ACC": "8.47",
+              "SAMP_RES": "0.3",
+              "SRC_DESC": "LG02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid Advanced",
+              "DrawOrder": "80",
+              "SRC_DATE2": "2/4/2025",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "81833.707571",
+              "Shape_Area": "296063924",
+              "BlockName": "DYNAMIC_ESRI_Jerusalem_25Q2",
+              "ReleaseName": "Raster Basemaps 2025.R08"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "49",
+      "site": "Khirbet Hanot",
+      "area": "Near Mata - southwestern Jerusalem hills",
+      "geometry_and_materials": "Historic khan ruins; reservoir; winepress; shallow archaeological relief",
+      "main_gate": "Heritage permission; protected mosaics; ground supplementation for small details",
+      "scout_first": "pending",
+      "source": "https://www.kkl.org.il/travel/kkl_parkusa/",
+      "flight_status": "Unverified - not flight clearance",
+      "location": {
+        "lat": 31.7116879,
+        "lon": 35.0469663,
+        "width": 450,
+        "evidence": "https://www.openstreetmap.org/way/312955738",
+        "position": "Mapped venue / scene anchor",
+        "note": "Reviewed OpenStreetMap object: Hurvat Hanut. Not a surveyed position.",
+        "sensor": "Winepresses and shallow archaeological relief need fine sampling. Protected mosaics are not necessarily exposed or accessible."
+      },
+      "photo": {
+        "image": "assets/ground-49-3ba8d7c050.jpg",
+        "description": "Ground view of the winepress (treading floor and collecting vat) among the ruins at Hurvat Hanot (Khirbet el-Khan), near Mata, geotagged at the OSM Hurvat Hanut anchor.",
+        "author": "amotzg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Israel_Hiking_Map_%D7%97%D7%95%D7%A8%D7%91%D7%AA_%D7%97%D7%A0%D7%95%D7%AA.jpeg",
+        "date": "2018-07-03",
+        "kind": "ground",
+        "changes": "Resized only; no crop",
+        "source_title": "Israel Hiking Map \u05d7\u05d5\u05e8\u05d1\u05ea \u05d7\u05e0\u05d5\u05ea.jpeg",
+        "limitation": "Shows the press area only; protected mosaics and the Byzantine church are not shown or implied accessible.",
+        "sha256": "3ba8d7c050822239b9f93e067b4da0303b8c9eae8b049e00b6eca89c7114e113"
+      },
+      "access_screening": {
+        "name": "Khirbet Hanot (Hurvat Hanut / Havat Hanot)",
+        "vehicle_destination": "Hurvat Hanut day-use picnic site (OSM 'Hurvat Hanut Picnic Site'), near Mata, southwestern Jerusalem hills; mapped parking node beside it",
+        "vehicle_lat": 31.711724,
+        "vehicle_lon": 35.046261,
+        "vehicle_evidence": "https://www.openstreetmap.org/node/3437927560",
+        "walking_minutes_estimate": [
+          2,
+          6
+        ],
+        "access_notes": "Source fact (OSM): named picnic/day-use feature at 31.711788,35.046641 with two untagged parking nodes within ~35-65 m; approach ways are tracks tagged asphalt, so a paved forest track is plausible but not confirmed. Ruin and a burial cave ~265 m away. Protected mosaics are not necessarily exposed. KKL page unread (bot block).",
+        "acquisition_notes": "Short walk from the day-use area, but far from the Motza gateway (drive not calculated) and in the southwestern hills. Winepresses and shallow relief require fine sampling and ground supplementation; mosaics protected.",
+        "logistics": "moderate",
+        "sources": [
+          "https://www.openstreetmap.org/node/3437927560",
+          "https://www.openstreetmap.org/node/2510027328",
+          "https://www.openstreetmap.org/way/312955738",
+          "https://www.kkl.org.il/travel/kkl_parkusa/"
+        ],
+        "uncertainties": [
+          "Parking nodes are untagged; coordinate relies on adjacency to the named day-use site.",
+          "Public road connection and gates not established.",
+          "Heritage permission and mosaic exposure unverified."
+        ]
+      },
+      "selection_status": "Provisional outdoor shortlist; logistical screening is not flight approval or a final easiest-site ranking.",
+      "focus": {
+        "request": {
+          "box": [
+            3901145.9555087537,
+            3725393.95556487,
+            3901674.9292212846,
+            3725654.8439605064
+          ],
+          "size": [
+            1469,
+            725
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-49-focus-1fe7ef34d7.jpg",
+        "extent": [
+          3901145.9505385035,
+          3725393.9555648696,
+          3901674.9341915343,
+          3725654.843960506
+        ],
+        "width": 734,
+        "height": 362,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3901145.9555087537%2C3725393.95556487%2C3901674.9292212846%2C3725654.8439605064&bboxSR=3857&imageSR=3857&size=734%2C362&format=jpg&f=json&dpi=96",
+        "reduced_export": true
+      },
+      "neighborhood": {
+        "request": {
+          "box": [
+            3900088.008083692,
+            3724938.0373926656,
+            3902732.8766463464,
+            3726110.762132711
+          ],
+          "size": [
+            1060,
+            470
+          ],
+          "service": "World_Imagery"
+        },
+        "image": "assets/site-49-context-14eb999669.jpg",
+        "extent": [
+          3900088.008083691,
+          3724938.0373926656,
+          3902732.876646346,
+          3726110.762132711
+        ],
+        "width": 1060,
+        "height": 470,
+        "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=3900088.008083692%2C3724938.0373926656%2C3902732.8766463464%2C3726110.762132711&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96",
+        "reduced_export": false
+      },
+      "citation": {
+        "results": [
+          {
+            "layerId": 10,
+            "layerName": "60cm Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid",
+            "attributes": {
+              "OBJECTID": "3436889",
+              "Shape": "Polygon",
+              "SRC_DATE": "20231021",
+              "SRC_RES": "0.5",
+              "SRC_ACC": "5",
+              "SAMP_RES": "0.6",
+              "SRC_DESC": "WV02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid",
+              "DrawOrder": "80",
+              "SRC_DATE2": "10/21/2023",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "161418.59758",
+              "Shape_Area": "446284527.5",
+              "BlockName": "Vivid_Standard_JO01_25Q3",
+              "ReleaseName": "Raster Basemaps 2026.R01"
+            }
+          },
+          {
+            "layerId": 11,
+            "layerName": "1.2m Resolution Metadata",
+            "displayFieldName": "NICE_NAME",
+            "value": "Vivid",
+            "attributes": {
+              "OBJECTID": "3436889",
+              "Shape": "Polygon",
+              "SRC_DATE": "20231021",
+              "SRC_RES": "0.5",
+              "SRC_ACC": "5",
+              "SAMP_RES": "0.6",
+              "SRC_DESC": "WV02",
+              "MinMapLevel": "12",
+              "MaxMapLevel": "18",
+              "NICE_NAME": "Vivid",
+              "DrawOrder": "80",
+              "SRC_DATE2": "10/21/2023",
+              "NICE_DESC": "Vantor",
+              "Shape_Length": "161418.59758",
+              "Shape_Area": "446284527.5",
+              "BlockName": "Vivid_Standard_JO01_25Q3",
+              "ReleaseName": "Raster Basemaps 2026.R01"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "overview": {
+    "request": {
+      "box": [
+        3875212.9699553694,
+        3718759.5156804607,
+        3946094.4531800323,
+        3750188.0978649813
+      ],
+      "size": [
+        1060,
+        470
+      ],
+      "service": "World_Topo_Map"
+    },
+    "image": "assets/overview-abd739bbc0.jpg",
+    "extent": [
+      3875212.969955369,
+      3718759.5156804617,
+      3946094.4531800323,
+      3750188.097864982
+    ],
+    "width": 1060,
+    "height": 470,
+    "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/export?bbox=3875212.9699553694%2C3718759.5156804607%2C3946094.4531800323%2C3750188.0978649813&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
+  },
+  "scanning_plan": {
+    "base": "Motza / Mevaseret Zion gateway",
+    "status": "Provisional geographic grouping, not a measured shortest-road route. Confirm the daily public meeting point and vehicle access before routing.",
+    "field_days": "13-16",
+    "assumptions": "One 2-3-person crew; separate RGB, LWIR and LiDAR acquisitions of compact subscenes, not whole parks. Eleven field-day slots plus two to five contingency/calibration/revisit days. All durations are planning allowances, not measured travel or operator quotes.",
+    "days": [
+      {
+        "day": 1,
+        "ids": [
+          "2",
+          "6"
+        ],
+        "area": "Liberty Bell / Baka",
+        "onsite_hours": [
+          4,
+          5
+        ],
+        "travel_hours": [
+          1,
+          2
+        ],
+        "gate": "Arrange separation from skaters, pedestrians and cyclists. Two OSM-supported vehicle points; opening and closure authority still need confirmation."
+      },
+      {
+        "day": 2,
+        "ids": [
+          "1",
+          "4"
+        ],
+        "area": "Kiryat HaYovel / Katamon",
+        "onsite_hours": [
+          4,
+          5
+        ],
+        "travel_hours": [
+          1,
+          2
+        ],
+        "gate": "Municipal agreement and an empty controlled play area. No substantiated parking coordinates; never treat an early hour as permission or guaranteed absence of children."
+      },
+      {
+        "day": 3,
+        "ids": [
+          "8",
+          "5"
+        ],
+        "area": "Yefe Nof / Givat Ram",
+        "onsite_hours": [
+          4.5,
+          6
+        ],
+        "travel_hours": [
+          1,
+          2
+        ],
+        "gate": "Garden slot is conditional on a booked outdoor subscene and operator approval. Skip that slot if access is not arranged; do not capture a greenhouse building instead."
+      },
+      {
+        "day": 4,
+        "ids": [
+          "10",
+          "7"
+        ],
+        "area": "Ramat Rachel",
+        "onsite_hours": [
+          4,
+          5
+        ],
+        "travel_hours": [
+          1,
+          2
+        ],
+        "gate": "One shared kibbutz access agreement where applicable; separate heritage/flight approval and surrounding-area sensitivity screening remain required."
+      },
+      {
+        "day": 5,
+        "ids": [
+          "35",
+          "36"
+        ],
+        "area": "Beit Zayit / Ein Hemed",
+        "onsite_hours": [
+          5,
+          6
+        ],
+        "travel_hours": [
+          0.75,
+          1.5
+        ],
+        "gate": "Dry terrain only at the reservoir, excluding dam/utility structures. National-park capture requires specific permission; no assumption that visitor access permits drones."
+      },
+      {
+        "day": 6,
+        "ids": [
+          "37",
+          "41"
+        ],
+        "area": "Tzuba / Sataf",
+        "onsite_hours": [
+          5,
+          6
+        ],
+        "travel_hours": [
+          0.75,
+          1.5
+        ],
+        "gate": "Tzuba ruins are conditional on legal approach and stable external viewpoints. Use the documented Sataf upper visitor lot; do not enter cultivated plots."
+      },
+      {
+        "day": 7,
+        "ids": [
+          "45",
+          "39"
+        ],
+        "area": "Aminadav / Sorek ridge",
+        "onsite_hours": [
+          4.5,
+          6
+        ],
+        "travel_hours": [
+          1,
+          2
+        ],
+        "gate": "Confirm the ordinary-car approach to Saadim and a legal carry route to the winepresses. Winepress walking burden is unknown: leave its slot uncommitted until reconnaissance."
+      },
+      {
+        "day": 8,
+        "ids": [
+          "46",
+          "47"
+        ],
+        "area": "Lavan / Even Sapir",
+        "onsite_hours": [
+          4,
+          6
+        ],
+        "travel_hours": [
+          1,
+          2
+        ],
+        "gate": "Both are conditional reserves: verify gates, ecological permissions, visitor privacy and any hospital/heliport constraints. Dense canopy may make the aerial result unsuitable."
+      },
+      {
+        "day": 9,
+        "ids": [
+          "30",
+          "48"
+        ],
+        "area": "Malha / Begin Park",
+        "onsite_hours": [
+          5,
+          6
+        ],
+        "travel_hours": [
+          1,
+          2
+        ],
+        "gate": "Ein Yael requires an agreed booking; Ein Kobi vehicle access and the exact surface subscene remain unconfirmed. Exclude rail operations and underground waterworks."
+      },
+      {
+        "day": 10,
+        "ids": [
+          "49"
+        ],
+        "area": "Mata / Hanot",
+        "onsite_hours": [
+          3,
+          4
+        ],
+        "travel_hours": [
+          1.5,
+          2.5
+        ],
+        "gate": "Confirm public road connection and heritage conditions at the day-use area. No exposure or entry onto protected mosaics; allow close-range work on the permitted winepress scene."
+      },
+      {
+        "day": 11,
+        "ids": [
+          "44"
+        ],
+        "area": "Ein Handak - conditional reserve",
+        "onsite_hours": [
+          4,
+          6
+        ],
+        "travel_hours": [
+          1,
+          2
+        ],
+        "gate": "Do not dispatch until a permitted open surface approach is confirmed. Allow a long equipment carry. Never enter closed trails, tunnels or unstable structures."
+      }
+    ],
+    "sequence": [
+      "Before dispatch: confirm access, current airspace/security restrictions and site-specific permissions; check weather, emergency arrangements and pedestrian separation. A map pin is not a launch site.",
+      "At each approved site: select one bounded outdoor patch; record scene limits, lighting, weather and surface state; establish non-invasive control and independently reserved checkpoints where permitted.",
+      "Acquire separate RGB and raw/radiance-linear LWIR passes with consistent coverage and timestamps; record FFC/NUC events and sensor calibration. Select height, overlap and flight pattern only after the actual sensor, GSD target and authorised envelope are known.",
+      "Acquire the LiDAR reference and required external ground views, without entering protected or unsafe structures. Reference accuracy and cross-sensor registration must be validated independently.",
+      "Perform on-site completeness, exposure, timing and registration checks; copy data to two independent devices before leaving. Keep adjacent scenes together in benchmark splits."
+    ],
+    "thermal_note": "The shortest driving circuit is not necessarily the best thermal experiment. Keep a consistent chosen time window; a second dawn/day/night campaign is additional work, not included in this allowance.",
+    "exclusions": "Permit lead times, weather waits, extra day/night campaigns, extensive terrestrial laser scanning, processing and dataset release are excluded. Split any overloaded day rather than dropping control or QA.",
+    "optimisation_limit": "Only six candidate vehicle points have supporting map evidence, and several approaches remain unconfirmed. Pairings minimize obvious geographic backtracking, but no road-distance matrix or live traffic model was available. No claim of global shortest route, guaranteed access or approval probability is made."
+  },
+  "version": "20261110-091549"
+}
