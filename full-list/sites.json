@@ -5436,7 +5436,7 @@
           25
         ],
         "access_notes": "Source fact (Wikipedia): dam on Nahal Sorek built to collect winter floodwater and recharge the aquifer. OSM: several gates (some access=no tracks) and service roads around the basin; nearest untagged lots ~670 m away; an OSM viewpoint ~420 m. The basin is utility infrastructure, so access is likely controlled.",
-        "acquisition_notes": "Closest to the Motza gateway by position, but the approach is unverified. Water/vegetation moves seasonally; exclude utility installations and water; dry margins and the dam only. Open sky is likely good with little canopy except at the edges.",
+        "acquisition_notes": "The approach is unverified. Water/vegetation moves seasonally; dry accessible margins only, excluding water, dam and utility installations. Open sky is likely good with little canopy except at the edges.",
         "logistics": "moderate",
         "sources": [
           "https://en.wikipedia.org/wiki/Beit_Zayit",
@@ -7919,7 +7919,7 @@
           6
         ],
         "access_notes": "Source fact (OSM): named picnic/day-use feature at 31.711788,35.046641 with two untagged parking nodes within ~35-65 m; approach ways are tracks tagged asphalt, so a paved forest track is plausible but not confirmed. Ruin and a burial cave ~265 m away. Protected mosaics are not necessarily exposed. KKL page unread (bot block).",
-        "acquisition_notes": "Short walk from the day-use area, but far from the Motza gateway (drive not calculated) and in the southwestern hills. Winepresses and shallow relief require fine sampling and ground supplementation; mosaics protected.",
+        "acquisition_notes": "Short walk from the day-use area in the southwestern hills; proposed first target of the open route, not a depot. Winepresses and shallow relief require fine sampling and ground supplementation; mosaics protected.",
         "logistics": "moderate",
         "sources": [
           "https://www.openstreetmap.org/node/3437927560",
@@ -8208,5 +8208,5 @@
     "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/export?bbox=3875212.9699553694%2C3718759.5156804607%2C3946094.4531800323%2C3750188.0978649813&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
   },
   "scanning_plan": null,
-  "version": "20261110-101313"
+  "version": "20261110-125102"
 }
