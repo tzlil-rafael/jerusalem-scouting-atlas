@@ -3862,5 +3862,5 @@
     "exclusions": "Permit lead times, weather waits, extra day/night campaigns, extensive terrestrial laser scanning, processing and dataset release are excluded. Split any overloaded day rather than dropping control or QA.",
     "optimisation_limit": "Only six candidate vehicle points have supporting map evidence, and several approaches remain unconfirmed. Pairings minimize obvious geographic backtracking, but no road-distance matrix or live traffic model was available. No claim of global shortest route, guaranteed access or approval probability is made."
   },
-  "version": "20261110-091549"
+  "version": "20261110-092906"
 }
