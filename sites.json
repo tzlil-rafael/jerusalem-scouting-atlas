@@ -3860,7 +3860,7 @@
     ],
     "thermal_note": "The shortest driving circuit is not necessarily the best thermal experiment. Keep a consistent chosen time window; a second dawn/day/night campaign is additional work, not included in this allowance.",
     "exclusions": "Permit lead times, weather waits, extra day/night campaigns, extensive terrestrial laser scanning, processing and dataset release are excluded. Split any overloaded day rather than dropping control or QA.",
-    "optimisation_limit": "Only six candidate vehicle points have supporting map evidence, and several approaches remain unconfirmed. Pairings minimize obvious geographic backtracking, but no road-distance matrix or live traffic model was available. No claim of global shortest route, guaranteed access or approval probability is made."
+    "optimisation_limit": "The route review retained all eleven groups and their stop order. Three vehicle candidates have stronger source support, three remain conditional and fourteen have no defensible endpoint. A partial road matrix covers the proposed base and three sites; only four of thirty-one planned driving legs have road-model geometry. Both Day 1 orders were compared: the reverse saves about one modelled minute but adds 75 metres, an operational tie rather than a robust improvement. Other drawn links are schematic, not roads. No global-shortest, live-traffic or guaranteed-access claim is made; use Daily routes for per-leg evidence."
   },
-  "version": "20261110-092906"
+  "version": "20261110-101552"
 }

@@ -8208,5 +8208,5 @@
     "url": "https://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/export?bbox=3875212.9699553694%2C3718759.5156804607%2C3946094.4531800323%2C3750188.0978649813&bboxSR=3857&imageSR=3857&size=1060%2C470&format=jpg&f=json&dpi=96"
   },
   "scanning_plan": null,
-  "version": "20261110-092906"
+  "version": "20261110-101313"
 }
